@@ -9,7 +9,7 @@ Use teaching: https://iweec.com/470.html
 
 开始操作：
 
-一、打开页面：https://github.com/MetaVPS/xssh 直接登录，创建一个分支，库名称保持xssh；
+一、打开页面：https://github.com/LarkinCrystel/xssh 直接登录，创建一个分支，库名称保持xssh；
 
 二、打开页面：https://dashboard.ngrok.com/login 直接使用GitHub账号登录，然后在入门中找到授权令牌如图：
 
